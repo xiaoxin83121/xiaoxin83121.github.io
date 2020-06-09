@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to xiaoxin83121's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xiaoxin83121/xiaoxin83121.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Intros
+Here is a personal Blog based on Github Pages. You can start this simple blog by following steps.
+- Create a repos named username.github.io
+- Choose a style theme in Settings
+- If there is a README, https://username.github.io will direct with the content of README
+- To add new pages, create new markdown file in repos. For example, a file with directory of about/contact.md, you can find it in https://username.github.io/about/contact  (without .md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### directory
 
-### Markdown
+waiting for update
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoxin83121/xiaoxin83121.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+contact me with xiaoxin83121@163.com
