@@ -78,7 +78,7 @@ class Model(nn.Module):
 	- kernel_size: interger or tuple
 	- stride: 步长，默认与卷积核的大小一致
 	- padding：填充
-	- in_channels, out_channels: 举个例子，in是1，out是6，kernel_size是5，那么卷积核的规模是$(5 \times 5 \times 1) \times 6$，若输入图片为$32 \times 32 \times 1$，经过$2 \times 2$池化后，大小为$14 \times 14 \times 6$. 再接in=6, out=16, kernel_size=5,卷积核的规模是$(5 \times 5 \times 6) \times 16$，卷积后，形成$10 \times 10 \times 16$的结果。  
+	- in_channels, out_channels: **举个例子，in是1，out是6，kernel_size是5，那么卷积核的规模是$(5 \times 5 \times 1) \times 6$，若输入图片为$32 \times 32 \times 1$，经过$2 \times 2$池化后，大小为$14 \times 14 \times 6$. 再接in=6, out=16, kernel_size=5,卷积核的规模是$(5 \times 5 \times 6) \times 16$，卷积后，形成$10 \times 10 \times 16$的结果**。  
 **卷积核的规模由卷积核size、输入的通道数、输出的通道数组成**,i.e. $(kernel\_size \times kernel\_size \times in\_channels) \times out\_channels$， 卷积核中除开输出的通道数的部分，才是在图像中进行卷积的”实际卷积核”
 
 ##### Others
