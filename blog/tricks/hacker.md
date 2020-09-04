@@ -46,9 +46,7 @@ $A_{i}^{j}$
 $\frac{1+\aplha}{1 \times \aplha}$
 $a \space b$
 ```
-$A_{i}^{j}$  
-$\frac{1+\alpha}{1 \times \alpha}$  
-$a \space b$  
+![image-20200905000408455](https://i.loli.net/2020/09/05/52SiuT4hRL7lOMf.png)
 以上一一对应，抛砖引玉
 
 - **图片**，建议使用的编辑器**Typora**,非常好用，分成所写即所得的编辑模式和源代码模式。最新的版本集成了picgo引擎，在**编辑模式**直接粘贴图片可以上传到SM.MS或者一些奇奇怪怪的图床里，教程也是现搜的（https://blog.csdn.net/bruce_6/article/details/104821531）实测可以下载picgo软件不配置命令行。
@@ -57,7 +55,7 @@ $a \space b$
 
 > 要Pro一定要命令行，Linux/Mac原生支持，Windows建议上巨硬应用商店里的Windows Terminal
 > 当然，先问问自己ls、ps、grep是干啥的，不知道可以不用看
-> 
+
 - Windows仿Linux环境
 配置Cygwin,下好了傻瓜安装就好了（可能要加一下系统环境变量，同时在安装过程中要根据自己需求安装哪些软件组 https://blog.csdn.net/lvsehaiyang1993/article/details/81027399 ），自带的cygwin terminal可以不用；  
 之所以是仿linux，可以实现ssh，vim之类基础命令，Linux的部分无法实现；  
