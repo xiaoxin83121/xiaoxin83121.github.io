@@ -18,9 +18,10 @@ x:关闭当前标签页；X(shift+x):打开上一个被关闭的标签页；
 o:current打开新的搜索结果；O(shift+o):new page打开新的搜索结果；
 ```
 需要特别注意的是：遇到一些包含输入框的网页，ESC键可以帮助取消focus状态，和vim一致；  
-以及，o操作默认的是google，调整成百度要在vimium->选项->custome search engines把
+以及，o操作默认的是google，调整成百度要在vimium->选项->show Advanced Options->Default search engines设置为
+
 ```
-bd: https://www.baidu.com/s?wd=%s Baidu
+https://www.baidu.com/s?wd=
 ```
 写在第一行
 
