@@ -12,18 +12,18 @@ Here is a personal Blog based on Github Pages. You can start this simple blog by
 ### Blogs
 
 #### Computer vision
-object detection: [obj](https://xiaoxin83121.github.io/blog/object_detection/)  
-video recognition: [video](https://xiaoxin83121.github.io/blog/video_recognition/)  
-convolution: [conv](https://xiaoxin83121.github.io/blog/conv_trans/)
-torch(waiting to update): [torch](https://xiaoxin83121.github.io/blog/torch/)
+object detection: [obj](https://xiaoxin83121.github.io/blog/object_detection)  
+video recognition: [video](https://xiaoxin83121.github.io/blog/video_recognition)  
+convolution: [conv](https://xiaoxin83121.github.io/blog/conv_trans)
+torch(waiting to update): [torch](https://xiaoxin83121.github.io/blog/torch)
 
 #### Course
 cs131-stanford:  
-- color, filter, RANSAC, detection : [cs131_1](https://xiaoxin83121.github.io/blog/cs131_1/)
-- (wait for update): [cs131_2](https://xiaoxin83121.github.io/blog/cs131_2/)
+- color, filter, RANSAC, detection : [cs131_1](https://xiaoxin83121.github.io/blog/cs131_1)
+- (wait for update): [cs131_2](https://xiaoxin83121.github.io/blog/cs131_2)
 
 ### Tricks and Fun
-Make you pro : [pro](https://xiaoxin83121.github.io/blog/tricks/hacker/)
+Make you pro : [pro](https://xiaoxin83121.github.io/blog/tricks/hacker)
 
 ## Contact
 
