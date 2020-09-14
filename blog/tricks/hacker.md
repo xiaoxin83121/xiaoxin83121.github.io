@@ -60,7 +60,7 @@ $a \space b$
 - Windows仿Linux环境
 配置Cygwin,下好了傻瓜安装就好了（可能要加一下系统环境变量，同时在安装过程中要根据自己需求安装哪些软件组 https://blog.csdn.net/lvsehaiyang1993/article/details/81027399 ），自带的cygwin terminal可以不用；  
 之所以是仿linux，可以实现ssh，vim之类基础命令，Linux的部分无法实现；  
-据说windows的preview里，内置了linux的内核，但是2020/9/4日仍然是1909版本，懂得抖动
+据说windows的preview里，内置了linux的内核，但是2020/9/4日仍然是1909版本，懂得都懂
 
 - **screen**
 
