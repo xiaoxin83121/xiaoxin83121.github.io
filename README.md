@@ -15,7 +15,9 @@ Here is a personal Blog based on Github Pages. You can start this simple blog by
 object detection: [obj](https://xiaoxin83121.github.io/blog/object_detection)  
 video recognition: [video](https://xiaoxin83121.github.io/blog/video_recognition)  
 convolution: [conv](https://xiaoxin83121.github.io/blog/conv_trans)
-torch(waiting to update): [torch](https://xiaoxin83121.github.io/blog/torch)
+torch(waiting to update): [torch](https://xiaoxin83121.github.io/blog/torch)  
+Imbalance in object detection: [imbalance](https://xiaoxin83121.github.io/blog/imbalance)
+
 
 #### Course
 cs131-stanford:  
